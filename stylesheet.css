@@ -1,0 +1,57 @@
+/* General */
+
+body {
+	font-family: 'Roboto', sans-serif;
+	margin:0px auto;
+}
+
+/* Header Section */
+.header {
+	width: 100%;
+}
+
+.menu {
+	display: flex;
+	width: 96%;
+	padding: 1% 2%;
+	background-color: rgba(001, 182, 113, 0.5);
+	z-index: 1000;
+	color: white;
+	overflow: hidden;
+    align-items: center;
+	position: fixed;
+	top: 0;
+}
+
+.logo {
+	display: inline-block;
+	width: 10%;
+	float: left;
+}
+
+.listmenudesktop {
+	display: flex;
+    margin-left: auto;
+    align-items: center;
+	width: 50%;
+}
+
+.listmenudesktop li {
+	flex: auto;
+	list-style-type: none;
+}
+
+.listmenumobile {
+	display: none;
+}
+
+.banner {
+	width: 100%;
+	position: relative;
+	top: 0;
+}
+
+.banner img {
+	width: 100%;
+	display: block;
+}
