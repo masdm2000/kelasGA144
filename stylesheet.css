@@ -55,3 +55,35 @@ body {
 	width: 100%;
 	display: block;
 }
+
+.bannertext {
+	display: flex;
+	position: absolute;
+	bottom:0;
+	right: 0;
+	left: 0;
+	width: 96%;
+	padding: 2%;
+	color: white;
+	background-color: rgba(122,66,122,0.75);
+	align-items: center;
+}
+
+.bannertextleft, .bannertextright {
+	display: inline-flex;
+	width: 48%;
+}
+
+.buttonFB {
+	color: white;
+	background-color: #3b5998;
+	padding: 1%;
+	margin-left: 2%;
+}
+
+.buttonTWITTER {
+	color: white;
+	background-color: #1DA1F2;
+	padding: 1%;
+	margin-left: 2%;
+}
