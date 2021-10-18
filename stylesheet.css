@@ -56,6 +56,15 @@ body {
 	display: block;
 }
 
+.bannerdesktop {
+	display: block;
+}
+
+.bannermobile {
+	display: none;
+}
+
+
 .bannertext {
 	display: flex;
 	position: absolute;
@@ -69,7 +78,7 @@ body {
 	align-items: center;
 }
 
-.bannertextleft, .bannertextright {
+.bannertexitems {
 	display: inline-flex;
 	width: 48%;
 }
@@ -86,4 +95,56 @@ body {
 	background-color: #1DA1F2;
 	padding: 1%;
 	margin-left: 2%;
+}
+
+.buttonDAFTAR {
+	color: white;
+	background-color: rgba(001, 182, 113, 1);;
+	padding: 1%;
+	margin-left: 2%;
+}
+
+@media screen and (max-width: 720px){
+	
+	.bannertext {
+		display: flex;
+		flex-direction: row;
+		position: absolute;
+		bottom:0;
+		right: 0;
+		left: 0;
+		width: 96%;
+		padding: 2%;
+		color: white;
+		background-color: rgba(122,66,122,0.75);
+		align-items: center;
+	}
+	
+	.bannerdesktop {
+		display: none;
+	}
+
+	.bannermobile {
+		display: block;
+	}
+	
+	.bannertexitems {
+		display: inline-flex;
+		width: 98%;
+	}
+	
+	.listmenudesktop {
+		display: none;
+	}
+
+	.listmenumobile li {
+		flex: auto;
+		list-style-type: none;
+	}
+
+	.listmenumobile {
+		display: flex;
+		margin-left: auto;
+		align-items: center;
+	}
 }
