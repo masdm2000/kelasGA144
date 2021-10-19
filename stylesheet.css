@@ -152,9 +152,12 @@ body {
 }
 .list-inline-item {
 	list-style:none;
-	float:left;
 }
-	
+
+.footer {
+	color:#68f3f8;
+}
+
 .button-addon1 {
   color: #68f3f8;
 }
