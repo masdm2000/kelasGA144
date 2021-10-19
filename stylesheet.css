@@ -150,6 +150,11 @@ body {
 		align-items: center;
 	}
 }
+.list-inline-item {
+	list-style:none;
+	float:left;
+}
+	
 .button-addon1 {
   color: #68f3f8;
 }
