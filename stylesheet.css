@@ -177,20 +177,20 @@ body {
 .box .left{
         width:33%;
     }
-    .box .center{
+.box .center{
         width:33%;
     }
-    .box .right{
+.box .right{
         width:33%;
 }
 .site-footer hr
 {
   border-top-color:#bbb;
-  opacity:0.5
+  opacity:0.2
 }
 .site-footer hr.small
 {
-  margin:20px 0
+  margin:10px 0
 }
 .site-footer h6
 {
