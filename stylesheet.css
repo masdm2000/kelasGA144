@@ -176,21 +176,19 @@ body {
 }	
 .footer{
   display:flex;
+  flex:auto;
    width:100%;
   position:static;
 }
 .footer-1{
   flex:auto;
-  position:static;
-}
+  }
 .footer-2{
   flex:auto;
-  position:static;
 }
 .footer-3{
   flex:auto;
-  position:static;
-}
+ }
 .site-footer hr
 {
   border-top-color:#bbb;
@@ -241,7 +239,7 @@ body {
 }
 .site-footer .social-icons
 {
-  text-align:right
+  text-align:center
 }
 .site-footer .social-icons a
 {
@@ -255,7 +253,7 @@ body {
 }
 .copyright-text
 {
-  margin:0
+  text-align:center;
 }
 @media (max-width:991px)
 {
