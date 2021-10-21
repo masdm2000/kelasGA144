@@ -176,7 +176,20 @@ body {
 }	
 .footer{
   display:flex;
+   width:100%;
+  position:static;
+}
+.footer-1{
   width:33%;
+  position:static;
+}
+.footer-2{
+  width:33%;
+  position:static;
+}
+.footer-3{
+  width:33%;
+  position:static;
 }
 .site-footer hr
 {
