@@ -180,15 +180,15 @@ body {
   position:static;
 }
 .footer-1{
-  width:33%;
+  flex:auto;
   position:static;
 }
 .footer-2{
-  width:33%;
+  flex:auto;
   position:static;
 }
 .footer-3{
-  width:33%;
+  flex:auto;
   position:static;
 }
 .site-footer hr
