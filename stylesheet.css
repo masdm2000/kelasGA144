@@ -174,13 +174,13 @@ body {
   line-height:24px;
   color:#737373;
 }
-.box .left{
+.site-footer .left{
         width:33%;
     }
-.box .center{
+.site-footer .center{
         width:33%;
     }
-.box .right{
+.site-footer .right{
         width:33%;
 }
 .site-footer hr
