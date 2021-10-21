@@ -176,19 +176,22 @@ body {
 }	
 .footer{
   display:flex;
-  flex:auto;
-   width:100%;
+  flex: auto;
+  width:100%;
   position:static;
 }
 .footer-1{
-  flex:auto;
+  flex: auto;
+  line-height: 1px;
   }
 .footer-2{
-  flex:auto;
+  flex: auto;
+  position:static;
 }
 .footer-3{
-  flex:auto;
- }
+ flex: auto;
+ position:static;
+}
 .site-footer hr
 {
   border-top-color:#bbb;
@@ -203,8 +206,7 @@ body {
   color:#fff;
   font-size:16px;
   text-transform:uppercase;
-  margin-top:3px;
-  letter-spacing:1px
+  line-height:1px;
 }
 .site-footer a
 {
@@ -239,7 +241,7 @@ body {
 }
 .site-footer .social-icons
 {
-  text-align:center
+  text-align:center;
 }
 .site-footer .social-icons a
 {
@@ -253,7 +255,7 @@ body {
 }
 .copyright-text
 {
-  text-align:center;
+  text-align: center;
 }
 @media (max-width:991px)
 {
