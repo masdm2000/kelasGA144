@@ -5,6 +5,10 @@ body {
 	margin:0px auto;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* Header Section */
 .header {
 	width: 100%;
