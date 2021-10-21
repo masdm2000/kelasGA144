@@ -177,7 +177,6 @@ body {
 .footer{
   display:flex;
   width:33%;
-  position:static;
 }
 .site-footer hr
 {
