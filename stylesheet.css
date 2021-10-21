@@ -174,15 +174,9 @@ body {
   line-height:24px;
   color:#737373;
 }
-.site-footer .left{
+.site-footer .footer{
         width:33%;
     }
-.site-footer .center{
-        width:33%;
-    }
-.site-footer .right{
-        width:33%;
-}
 .site-footer hr
 {
   border-top-color:#bbb;
