@@ -153,6 +153,12 @@ body {
 		margin-left: auto;
 		align-items: center;
 	}
+	
+	.logo {
+		display: inline-block;
+		width: 10%;
+		float: left;
+	}
 }
 
 .button-addon1 {
