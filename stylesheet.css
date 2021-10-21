@@ -174,9 +174,10 @@ body {
   line-height:24px;
   color:#737373;
 }	
-footer{
+.footer{
   display:flex;
   width:33%;
+  position:static;
 }
 .site-footer hr
 {
