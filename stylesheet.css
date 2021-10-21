@@ -5,9 +5,6 @@ body {
 	margin:0px auto;
 }
 
-a {
-  text-decoration: none;
-}
 
 /* Header Section */
 .header {
@@ -25,6 +22,11 @@ a {
     align-items: center;
 	position: fixed;
 	top: 0;
+}
+
+.menu a {
+	text-decoration: none;
+	color: white;
 }
 
 .logo {
