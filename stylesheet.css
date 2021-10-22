@@ -164,7 +164,8 @@ body {
         position: absolute;
         top: 90px;
         width: 100%;
-        color: white;
+        color: lightslategray;
+	text-align: center;
 }
 
 .txt-contents {
