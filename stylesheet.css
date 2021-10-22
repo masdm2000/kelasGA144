@@ -144,40 +144,6 @@ body {
     background-color: #e5e2e2;
     text-align: center;
   }
-  
-  .heading {
-    padding-top: 60px;
-    padding-bottom: 30px;
-    color: #5f5d60;
-  }
-  
-  .heading h2 {
-    font-weight: normal;
-    text-align: center;
-  }
-  
-  .lesson {
-    float: left;
-    width: 25%;
-  }
-  
-  .lesson-icon {
-    position: relative;
-  }
-
-  .lesson-icon p {
-    top: 90px;
-    width: 100%;
-    color: white;
-  }
-  
-  .txt-contents {
-    width: 80%;
-    display: inline-block;
-    margin-top: 20px;
-    font-size: 15px;
-    color: #b3aeb5;
-  }
  
 .site-footer
 {
