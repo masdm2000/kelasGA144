@@ -206,74 +206,6 @@ body {
   text-align: center;
 }
 
-@media (max-width:991px) {
-	
-	.bannertext {
-		display: flex;
-		flex-direction: column;
-		position: absolute;
-		bottom:0;
-		right: 0;
-		left: 0;
-		width: 96%;
-		padding: 2%;
-		color: white;
-		background-color: rgba(122,66,122,0.75);
-		align-items: center;
-	}
-	
-	.bannerdesktop {
-		display: none;
-	}
-
-	.bannermobile {
-		display: block;
-	}
-	
-	.bannertexitems {
-		display: inline-flex;\
-		flex-direction: row;
-		width: 98%;
-		margin: 2% 0;
-	}
-	
-	.listmenudesktop {
-		display: none;
-	}
-
-	.listmenumobile li {
-		flex: auto;
-		list-style-type: none;
-	}
-
-	.listmenumobile {
-		display: flex;
-		margin-left: auto;
-		align-items: center;
-	}
-	
-	.logo {
-		display: inline-block;
-		width: 10%;
-		float: left;
-	}
-
-  .site-footer [class^=col-]
-  {
-    margin-bottom:30px
-  }
-
-@media (max-width:767px)
-{
-  .site-footer
-  {
-    padding-bottom:0
-  }
-  .site-footer .copyright-text,.site-footer .social-icons
-  {
-    text-align:center
-  }
-}
 .social-icons
 {
   padding-left:0;
@@ -345,3 +277,73 @@ body {
     font-weight:600
   }
 }
+
+@media (max-width:991px) {
+	
+	.bannertext {
+		display: flex;
+		flex-direction: column;
+		position: absolute;
+		bottom:0;
+		right: 0;
+		left: 0;
+		width: 96%;
+		padding: 2%;
+		color: white;
+		background-color: rgba(122,66,122,0.75);
+		align-items: center;
+	}
+	
+	.bannerdesktop {
+		display: none;
+	}
+
+	.bannermobile {
+		display: block;
+	}
+	
+	.bannertexitems {
+		display: inline-flex;\
+		flex-direction: row;
+		width: 98%;
+		margin: 2% 0;
+	}
+	
+	.listmenudesktop {
+		display: none;
+	}
+
+	.listmenumobile li {
+		flex: auto;
+		list-style-type: none;
+	}
+
+	.listmenumobile {
+		display: flex;
+		margin-left: auto;
+		align-items: center;
+	}
+	
+	.logo {
+		display: inline-block;
+		width: 10%;
+		float: left;
+	}
+
+  .site-footer [class^=col-]
+  {
+    margin-bottom:30px
+  }
+
+@media (max-width:767px)
+{
+  .site-footer
+  {
+    padding-bottom:0
+  }
+  .site-footer .copyright-text,.site-footer .social-icons
+  {
+    text-align:center
+  }
+}
+
