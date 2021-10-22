@@ -131,7 +131,12 @@ body {
 .buttonDAFTAR:hover {
 	box-shadow: 5px 10px rgba(001, 182, 113, 0.5);
 }
-
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
 .site-footer
 {
   background-color:#26272b;
