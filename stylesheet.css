@@ -127,6 +127,7 @@ body {
   flex: auto;
   width:100%;
   position:static;
+  flex-direction: column;
 }
 .footer-1{
   flex: auto;
