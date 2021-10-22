@@ -465,6 +465,10 @@ body {
     		float: left;
     		width: 49.5%;
   	}
+	.testimonials {
+	    float: left;
+	    width: 100%;
+	}
 }
 
 @media (max-width:767px)
