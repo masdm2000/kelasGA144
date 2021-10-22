@@ -139,45 +139,45 @@ body {
 }
 
 .lesson-wrapper {
-        height: 500px;
+	height: 500px;
         padding-bottom: 80px;
         background-color: beige;
         text-align: center;
-    }
+}
 
-    .heading {
-        padding-top: 60px;
+.heading {
+	padding-top: 60px;
         padding-bottom: 30px;
         color: lightslategray;
-    }
+}
 
-    .heading h2 {
+.heading h2 {
         font-weight: normal;
-    }
+}
 
-    .lesson {
+.lesson {
         float:left;
         width: 25%;
-    }
+}
 
-    .lesson-icon {
+.lesson-icon {
         position: relative;
-    }
+}
 
-    .lesson-icon p {
+.lesson-icon p {
         position: absolute;
         top: 90px;
         width: 100%;
         color: white;
-    }
+}
 
-    .txt-contents {
+.txt-contents {
         width: 80%;
         display: inline-block;
         margin-top: 20px;
         font-size: 15px;
         color: #b3aeb5;
-    }
+}
 
 .site-footer
 {
