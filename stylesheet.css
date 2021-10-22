@@ -413,6 +413,11 @@ body {
   {
     margin-bottom:30px
   }
+	
+	.lesson {
+    		float: left;
+    		width: 49.5%;
+  	}
 }
 
 @media (max-width:767px)
