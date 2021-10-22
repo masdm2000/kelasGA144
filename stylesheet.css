@@ -98,7 +98,8 @@ body {
 	background-color: #3b5998;
 	padding: 1%;
 	margin-left: 2%;
-	border-radius: 1%;
+	border-radius: 5px;
+	border: 1px solid silver;
 }
 
 .buttonTWITTER {
@@ -106,7 +107,8 @@ body {
 	background-color: #1DA1F2;
 	padding: 1%;
 	margin-left: 2%;
-	border-radius: 1%;
+	border-radius: 5px;
+	border: 1px solid silver;
 }
 
 .buttonDAFTAR {
@@ -114,7 +116,8 @@ body {
 	background-color: rgba(001, 182, 113, 1);;
 	padding: 1%;
 	margin-left: 2%;
-	border-radius: 1%;
+	border-radius: 5px;
+	border: 1px solid silver;
 }
 
 .site-footer
