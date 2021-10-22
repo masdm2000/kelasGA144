@@ -160,10 +160,6 @@ body {
         width: 25%;
 }
 
-.lesson-icon {
-        position: relative;
-}
-
 .lesson-icon p {
         position: absolute;
         top: 90px;
