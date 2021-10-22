@@ -329,11 +329,26 @@ body {
 		width: 10%;
 		float: left;
 	}
+	.footer-1{
+	  flex: auto;
+	  width: 90%;
+	  }
+	.footer-2{
+	  flex: auto;
+	  position:static;
+	  width: 90%;
+	}
+	.footer-3{
+	 flex: auto;
+	 position:static;
+	 width: 90%;
+	}
 
   .site-footer [class^=col-]
   {
     margin-bottom:30px
   }
+}
 
 @media (max-width:767px)
 {
