@@ -139,45 +139,42 @@ body {
 }
 
 .lesson-wrapper {
-	height: 500px;
-        padding-bottom: 80px;
-        background-color: #e6e6e6;
-}
-
-.heading {
-	padding-top: 60px;
-        padding-bottom: 30px;
-        color: lightslategray;
-	text-align: center;
-}
-
-.heading h2 {
-        font-weight: normal;
-	text-align: center;
-}
-
-.lesson {
-        float:left;
-        width: 25%;
-	text-align: center;
-}
-
-.lesson-icon p {
-        position: absolute;
-        top: 90px;
-        width: 100%;
-        color: lightslategray;
-	text-align: center;
-}
-
-.txt-contents {
-        width: 80%;
-        display: inline-block;
-        margin-top: 20px;
-        font-size: 15px;
-        color: #b3aeb5;
-}
-
+    height: 500px;
+    padding-bottom: 80px;
+    background-color: #e5e2e2;
+    text-align: center;
+  }
+  
+  .heading {
+    padding-top: 60px;
+    padding-bottom: 30px;
+    color: #5f5d60;
+  }
+  
+  .heading h2 {
+    font-weight: normal;
+  }
+  
+  .lesson {
+    float: left;
+    width: 25%;
+  }
+  
+  .lesson-icon p {
+    position: absolute;
+    top: 90px;
+    width: 100%;
+    color: white;
+  }
+  
+  .txt-contents {
+    width: 80%;
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 15px;
+    color: #b3aeb5;
+  }
+ 
 .site-footer
 {
   background-color:#26272b;
