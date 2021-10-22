@@ -176,6 +176,44 @@ body {
     color: #b3aeb5;
   }
   
+.testimoni {
+    padding-bottom: 50px;
+    background-color: mintcream;
+    text-align: ;
+    overflow: hidden;
+}
+
+.testimoni-heading {
+    padding-top: 50px;
+    padding-bottom: 25px;
+    color: black;
+}
+
+.testimoni-heading h2 {
+    font-weight: normal;
+}
+
+.testimonials {
+    float: left;
+    width: 25%;
+}
+
+.testimonial-icon {
+    position: relative;
+}
+
+.testimonial-icon p {
+    color: white;
+}
+
+.testimoni-contents {
+    width: 80%;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 15px;
+    color: black;
+}
+
 .site-footer
 {
   background-color:#26272b;
