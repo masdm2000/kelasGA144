@@ -100,7 +100,10 @@ body {
 	margin-left: 2%;
 	border-radius: 5px;
 	border: 1px solid #3b5998;
-	box-shadow: 5px 10px rgba(136,136,136,0.5);
+}
+
+.buttonFB:hover {
+	box-shadow: 5px 10px rgba(59, 89, 152,0.5);
 }
 
 .buttonTWITTER {
@@ -110,7 +113,10 @@ body {
 	margin-left: 2%;
 	border-radius: 5px;
 	border: 1px solid #1DA1F2;
-	box-shadow: 5px 10px rgba(136,136,136,0.5);
+}
+
+.buttonTWITTER:hover {
+	box-shadow: 5px 10px rgba(29, 161, 242,0.5);
 }
 
 .buttonDAFTAR {
@@ -120,6 +126,9 @@ body {
 	margin-left: 2%;
 	border-radius: 5px;
 	border: 1px solid #01b671;
+}
+
+.buttonDAFTAR:hover {
 	box-shadow: 5px 10px rgba(001, 182, 113, 0.5);
 }
 
