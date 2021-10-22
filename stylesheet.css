@@ -185,12 +185,17 @@ body {
     background-color: mintcream;
     text-align: center;
     overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .testimoni-heading {
     padding-top: 50px;
     padding-bottom: 25px;
     color: black;
+    width: 100%;
 }
 
 .testimoni-heading h2 {
