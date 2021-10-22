@@ -137,6 +137,48 @@ body {
   padding-bottom: 15px;
   margin-bottom: 50px;
 }
+
+.lesson-wrapper {
+        height: 500px;
+        padding-bottom: 80px;
+        background-color: beige;
+        text-align: center;
+    }
+
+    .heading {
+        padding-top: 60px;
+        padding-bottom: 30px;
+        color: lightslategray;
+    }
+
+    .heading h2 {
+        font-weight: normal;
+    }
+
+    .lesson {
+        float:left;
+        width: 25%;
+    }
+
+    .lesson-icon {
+        position: relative;
+    }
+
+    .lesson-icon p {
+        position: absolute;
+        top: 90px;
+        width: 100%;
+        color: white;
+    }
+
+    .txt-contents {
+        width: 80%;
+        display: inline-block;
+        margin-top: 20px;
+        font-size: 15px;
+        color: #b3aeb5;
+    }
+
 .site-footer
 {
   background-color:#26272b;
