@@ -141,8 +141,8 @@ body {
 .lesson-wrapper {
 	height: 500px;
         padding-bottom: 80px;
-        background-color: rgb(160, 160, 160);
-        text-align: center;
+        background-color: #e6e6e6;
+	text-align: center;
 }
 
 .heading {
