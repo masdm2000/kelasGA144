@@ -475,6 +475,10 @@ body {
 	    float: left;
 	    width: 100%;
 	}
+	
+	.txt-contents {
+		font-size: 30px;
+	}
 }
 
 @media (max-width:767px)
