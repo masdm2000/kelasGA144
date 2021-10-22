@@ -422,6 +422,7 @@ body {
 		flex-direction: row;
 		width: 98%;
 		margin: 2% 0;
+		font-size: 18px;
 	}
 	
 	.listmenudesktop {
@@ -477,7 +478,11 @@ body {
 	}
 	
 	.txt-contents {
-		font-size: 30px;
+		font-size: 18px;
+	}
+	
+	.testimoni-contents {
+		font-size: 18px;
 	}
 }
 
