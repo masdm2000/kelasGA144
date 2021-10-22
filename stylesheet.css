@@ -99,7 +99,7 @@ body {
 	padding: 1%;
 	margin-left: 2%;
 	border-radius: 5px;
-	border: 1px solid silver;
+	border: 1px solid #3b5998;
 }
 
 .buttonTWITTER {
@@ -108,7 +108,7 @@ body {
 	padding: 1%;
 	margin-left: 2%;
 	border-radius: 5px;
-	border: 1px solid silver;
+	border: 1px solid #1DA1F2;
 }
 
 .buttonDAFTAR {
@@ -117,7 +117,7 @@ body {
 	padding: 1%;
 	margin-left: 2%;
 	border-radius: 5px;
-	border: 1px solid silver;
+	border: 1px solid #01b671;
 }
 
 .site-footer
