@@ -142,7 +142,6 @@ body {
 	height: 500px;
         padding-bottom: 80px;
         background-color: #e6e6e6;
-	text-align: center;
 }
 
 .heading {
@@ -158,6 +157,7 @@ body {
 .lesson {
         float:left;
         width: 25%;
+	text-align: center;
 }
 
 .lesson-icon p {
